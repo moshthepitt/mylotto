@@ -2,6 +2,7 @@
 
 ### Numbers
 
+```csv
 Number,Occurences
 39,28
 12,27
@@ -52,9 +53,11 @@ Number,Occurences
 41,14
 47,14
 45,7
+```
 
 ### Bonus Numbers
 
+```csv
 Number,Occurences
 0,21
 1,19
@@ -66,9 +69,11 @@ Number,Occurences
 7,14
 5,12
 8,12
+```
 
 ### Numbers By Date
 
+```csv
 Number,Rank,Date
 7,0,Saturday 20th May 2017
 13,0,Saturday 20th May 2017
@@ -119,9 +124,11 @@ Number,Rank,Date
 23,21,Wednesday 8th March 2017
 40,27,Wednesday 15th February 2017
 45,27,Wednesday 15th February 2017
+```
 
 ### Bonus Numbers By Date
 
+```csv
 Number,Rank,Date
 6,0,Saturday 20th May 2017
 0,2,Saturday 13th May 2017
@@ -133,3 +140,4 @@ Number,Rank,Date
 4,19,Wednesday 15th March 2017
 2,20,Saturday 11th March 2017
 7,25,Wednesday 22nd February 2017
+```
