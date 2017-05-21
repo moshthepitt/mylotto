@@ -1,7 +1,6 @@
 *.pyc
 __pycache__
 numbers.csv
-powerball.csv
+bonus_numbers.csv
 date_numbers.csv
-date_powerball.csv
-date_bonus.csv
+date_bonus_numbers.csv
